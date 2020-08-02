@@ -1,2 +1,3 @@
 # seam-carving
-A simple algorithm for content aware image resizing.
+
+A simple algorithm for content aware image resizing
